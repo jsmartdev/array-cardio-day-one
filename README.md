@@ -1,2 +1,0 @@
-# array-cardio-day-one 
-
